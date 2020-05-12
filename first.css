@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    font-family: "Nano Sans", sans-serif;
+    color: grey;
+}
+
+h1{
+    font-size: 60px;
+    color: black;
+}
+
+h2{
+    font-size: 40px;
+    color: goldenrod;
+}
+
+h3{
+    font: 30px;
+    color: salmon;
+}
+
+h4{
+    font-size: 20px;
+    color: darkgray;
+}
+
+p{
+    font-size: 15px;
+    color: seagreen;
+    line-height: 3;
+}
+
+img{
+    max-width: 100%;
+}
